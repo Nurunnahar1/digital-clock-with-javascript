@@ -1,0 +1,17 @@
+@font-face {
+    font-family: clock;
+    src: url("./digital-dismay/Digital\ Dismay.otf");
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: clock;
+}
+
+body {
+    margin: 100px;
+}
+.box h1 {
+    font-size: 150px;
+}

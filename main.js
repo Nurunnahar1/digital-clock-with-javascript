@@ -10,6 +10,7 @@ const digitalClockInit = () => {
 };
 digitalClockInit();
 
+
 setInterval(() => {
   digitalClockInit();
   notification.play();
